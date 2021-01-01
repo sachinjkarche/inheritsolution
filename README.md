@@ -1,2 +1,2 @@
-# inheritsolution
-inheritsolution
+# Angular Application
+Angular
